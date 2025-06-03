@@ -1,6 +1,6 @@
 # Soccer Action Value Analysis
 
-This project analyzes soccer actions and player value using StatsBomb data and the `socceraction` library (which is amazing and you should also check its own repo). It includes a pipeline of four scripts to process and value actions, followed by Jupyter notebooks for further analysis.
+This project uses StatsBomb data and the `socceraction` library (which is amazing and you should also check its own repo). It includes a pipeline of four scripts to process and value actions, followed by Jupyter notebooks for further analysis.
 
 ## Project Structure
 
